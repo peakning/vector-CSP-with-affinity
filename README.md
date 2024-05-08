@@ -1,9 +1,9 @@
 # Interpretation of the data 
 Here, we give the dataset of the paper *vector cutting stock problem with affinity*.
 
-All data is placed in the *dataset* folder. *group1_data* folder to *group10_data* folder contain the randomly generated instances mentioned in the paper. 
-
-For each instance, its name follow the structure like *group1_instance_1.txt*, where *group1* means the index of the group and *instance_1* means the index of the instance. 
+All data is placed in the *dataset* folder. 
+- *group1_data* folder to *group10_data* folder contain the randomly generated instances mentioned in the paper. 
+- For each instance, its name follow the structure like *group1_instance_1.txt*, where *group1* means the index of the group and *instance_1* means the index of the instance. 
 
 For the composition of the data for each instance:
 - *Number of physical machine types* means that there are three physical machines of different specifications
