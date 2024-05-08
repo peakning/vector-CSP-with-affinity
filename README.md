@@ -1,2 +1,4 @@
-# vector-CSP-with-affinity
-This is the data of the paper \textit{vector cutting stock problem with affinity} 
+# Interpretation of the data 
+This is the dataset of the paper *vector cutting stock problem with affinity*.
+
+For each instance,
