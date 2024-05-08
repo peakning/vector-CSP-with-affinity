@@ -1,0 +1,49 @@
+Number of physical machine types:
+3
+Resources for each physical machine type:
+128,256
+64,256
+128,128
+Available number for each physical machine type:
+8
+8
+8
+Activation cost for each physical machine type:
+200
+150
+150
+Number of micro-service types:
+10
+Required number for each micro-service type:
+4
+5
+2
+4
+4
+4
+4
+1
+1
+2
+Resource requirements for each micro-service type:
+16,52
+17,61
+22,56
+36,71
+34,46
+28,52
+19,35
+25,38
+34,42
+20,32
+Total invoking flow matrix:
+0,852,437,659,164,756,501,586,479,928
+0,0,563,486,280,186,147,661,100,334
+0,0,0,95,729,779,977,757,358,620
+0,0,0,0,894,108,952,756,522,585
+0,0,0,0,0,83,144,954,28,180
+0,0,0,0,0,0,874,233,575,90
+0,0,0,0,0,0,0,754,970,568
+0,0,0,0,0,0,0,0,511,62
+0,0,0,0,0,0,0,0,0,583
+0,0,0,0,0,0,0,0,0,0
