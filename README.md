@@ -1,3 +1,2 @@
 # vector-CSP-with-affinity
-vector cutting stock problem with affinity
-data is available
+This is the data of the paper \textit{vector cutting stock problem with affinity} 
