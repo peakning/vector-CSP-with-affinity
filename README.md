@@ -29,7 +29,7 @@ Here, we give the dataset of the paper **vector cutting stock problem with affin
 | Cost of physical machine                                   | $C_{k}=\{200,150,150\}$               |
 | Number limitation of physical machine                      | $Q_{k}\in[1.1Z^{CSP}_k,1.3Z^{CSP}_k]$ |
 | Requirements of the resource $r$ for the micro-service $i$ | $b_{ir}\in[0.1U_{1r},0.3U_{1r}]$      |
-| Total invoking flow from micro-services $ i $ to $ j $     | $W_{ij}\in[0,1000]$                   |
+| Total invoking flow from micro-services $i$ to $j$     | $W_{ij}\in[0,1000]$                   |
 
 
 - For each instance, its name follows the structure like **group1_instance_1.txt**, where **group1** means the index of the group and **instance_1** means the index of the instance. 
